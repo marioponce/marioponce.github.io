@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Irrigation Engineering, Universidad Autonoma Chapingo, 2010
+* Applied Statistics, Universidad Nacional Autonoma de Mexico, 2015
+* M.Sc. in Climate Studies, Wageningen University, 2018
 
 Work experience
 ======
