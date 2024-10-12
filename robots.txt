@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://marioponce.github.ioblank/sitemap.xml
+Sitemap: https://marioponce.github.io/sitemap.xml
