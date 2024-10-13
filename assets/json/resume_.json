@@ -150,97 +150,96 @@
   ],
   "volunteer": [
     {
-      "organization": "Club Rotaract Texcoco de Gante",
-      "location": "Mexico",
-      "position": "Volunter",
-      "url": "",
-      "startDate": "2012-04-01",
-      "endDate": "2014-07-01",
-      "summary": "",
-      "highlights": []
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "Training": [
+  "awards": [
     {
-      "name": "OPENSENSE Training School",
-      "date": "2023-10-01",
-      "issuer": "COST Actions",
-      "url": "",
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Deep Learning Specialization",
-      "date": "2022",
-      "issuer": "Coursera – DeepLearning.AI",
-      "url": "",
-      "icon": ""
+      "name": "Quantum Computing",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Diploma in aerobic treatment and wastewater reuse",
-      "date": "2021",
-      "issuer": "Universidad Nacional Autónoma de México, UNAM",
-      "url": "",
-      "icon": ""
+      "name": "Quantum Information",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Machine Learning",
-      "date": "2021",
-      "issuer": "Instituto Politécnico Nacional, IPN",
-      "url": "",
-      "icon": ""
+      "name": "Quantum Cryptography",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Spring School in Lattice Boltzmann Methods with OpenLB Software Lab",
-      "date": "2018",
-      "issuer": "Karlsruhe Institute of Technology",
-      "url": "",
-      "icon": ""
+      "name": "Quantum Communication",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Quantum Teleportation",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-clipboard-check"
+    }
+  ],
+   "publications": [
+    {
+      "name": "Zur Elektrody/namik bewegter Körper",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-06-30",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     }
   ],
   "skills": [
     {
-      "name": "Programming languages",
+      "name": "Physics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Pyton",
-        "R",
-        "MATLAB",
-        "C++"
-      ]
-    },
-    {
-      "name": "Statistics and Data Science",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Machine Learning",
-        "Bayesian Statistics"
-      ]
-    },
-    {
-      "name": "Open HardwareComplexity",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Raspberry pi",
-        "Arduino",
-        "IoT"
-      ]
-    },
-    {
-      "name": "Optimization",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Differential Evolution",
-        "Bioinspired Algorithms"
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Spanish",
+      "language": "German",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -248,45 +247,42 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    },
-    {
-      "language": "French",
-      "fluency": "Survival level",
-      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Complexity",
+      "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Non-linear dynamic",
-        "Cellular automata",
-        "Agent-based model"
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
     }
   ],
   "references": [
     {
-      "name": "Robert Lanzafame",
+      "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
-      "reference": "We worked together in the organization of the MUDE course."
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Albretch Weerts",
-      "url": "https://www.deltares.nl/en/expertise/our-people/albrecht-weerts",
+      "name": "Professor John Doe",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "He was my supervisor during my internship at Deltares."
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
     {
-      "name": "Makara",
-      "summary": "Makara is a predictive model based application that integrates climate and price movements and allows farmers to reduce their financial risk and ensure they have a sustainable livelihood.",
-      "highlights": [],
-      "startDate": "2023-01-01",
-      "endDate": "2024-03-31",
-      "url": "https://www.makarainit.com/"
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
     }
   ]
 }
