@@ -24,25 +24,119 @@
   },
   "education": [
     {
-      "institution": "Wageningen University & Research",
+      "institution": "Universidad Autónoma de la Ciudad de México, UACM",
+      "location": "Mexico",
+      "url": "https://www.uacm.edu.mx/",
+      "area": "Major: Climate Studies [Hydrology and Quantitative Water Management Group] – Minor: Dynamic Systems Modelling.",
+      "studyType": "Master’s Degree",
+      "startDate": "2019-09-01",
+      "endDate": "2024-12-31",
+      "courses": []
+    },
+    {
+      "institution": "Wageningen University & Research, WUR",
       "location": "The Netherlands",
       "url": "https://www.wur.nl/en/research-results/chair-groups/environmental-sciences/hydrology-and-environmental-hydraulics-group.htm",
-      "area": "Climate Studies. Hydrology and Quantitative Water Management Group. \nMinor: Dynamic Systems Modelling.",
-      "studyType": "MSc",
+      "area": "Major: Climate Studies [Hydrology and Quantitative Water Management Group] – Minor: Dynamic Systems Modelling.",
+      "studyType": "Master’s Degree",
       "startDate": "2016-09-01",
       "endDate": "2018-08-31",
-      "courses": ["Mario"]
+      "courses": []
+    },
+    {
+      "institution": "Universidad Nacional Autónoma de México, UNAM",
+      "location": "Mexico",
+      "url": "https://www.iimas.unam.mx/",
+      "area": "Applied Statistics",
+      "studyType": "Postgraduate Degree",
+      "startDate": "2014-08-01",
+      "endDate": "2015-07-31",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Autónoma Metropolitana, UAM",
+      "location": "Mexico",
+      "url": "https://www.uam.mx/unidad_cuajimalpa.html",
+      "area": "Applied Matematics",
+      "studyType": "Postgraduate Degree",
+      "startDate": "2015-08-01",
+      "endDate": "2016-07-31",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Autónoma Chapingo, UACh",
+      "location": "Mexico",
+      "url": "https://irrigacion.chapingo.mx/",
+      "area": "Irrigation Engineering",
+      "studyType": "Bachelor’s Degree",
+      "startDate": "2010-07-01",
+      "endDate": "2006-06-30",
+      "courses": []
     }
   ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Technische Universiteit Delft, TUD",
+      "position": "Project Manager / Teaching Assistant",
+      "url": "https://www.tudelft.nl/teachingacademy/news/news/previous-newsletters/the-educator-april-2024/the-story-of-mude",
+      "startDate": "2024-04-01",
+      "endDate": "2024-09-30",
+      "summary": "Organizer of the biggest course in the Civil Engineering Faculty.",
+      "highlights": []
+    },
+    {
+      "name": "Technische Universiteit Delft, TUD",
+      "position": "Researcher / BackEnd developer",
+      "url": "https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement",
+      "startDate": "2023-01-01",
+      "endDate": "2024-03-31",
+      "summary": "BE developer of a robust API for seamless frontend communication and automated climatic data processing",
+      "highlights": []
+    },
+    {
+      "name": "BairesDev",
+      "position": "Python Engineer",
+      "url": "https://www.bairesdev.com/",
+      "startDate": "2021-06-02",
+      "endDate": "2022-08-31",
+      "summary": "Responsible for implementing Machine Learning algorithms to improve the performance of a cooking robot.",
+      "highlights": []
+    },
+    {
+      "name": "Tata Consultancy Services",
+      "position": "Software Engineer",
+      "url": "https://www.tcs.com/",
+      "startDate": "2020-09-01",
+      "endDate": "2021-06-01",
+      "summary": "Responsible for giving support in Linux systems to financial projects. I got also training in AWS technologies.",
+      "highlights": []
+    },
+    {
+      "name": "Soluciones en Ingeniería y Tecnologías del Agua",
+      "position": "Hydrology and Hydroinformatics Consultant",
+      "url": "",
+      "startDate": "2018-11-01",
+      "endDate": "2020-08-31",
+      "summary": "Oversaw hydrological modelling, and flood simulations, and devised mitigation solutions.",
+      "highlights": []
+    },
+    {
+      "name": "Deltares",
+      "position": "Intern",
+      "url": "https://www.deltares.nl/",
+      "startDate": "2018-05-01",
+      "endDate": "2018-08-31",
+      "summary": "Managed the processing of raster files and spatial time series, with a focus on down/up-scaling.",
+      "highlights": []
+    },
+    {
+      "name": "",
+      "position": "Irrigation engineer",
+      "url": "",
+      "startDate": "2011-08-01",
+      "endDate": "2016-04-30",
+      "summary": "Over the years, I contributed to small companies by taking on diverse roles across various projects.",
+      "highlights": []
     }
   ],
   "volunteer": [
