@@ -27,13 +27,11 @@
       "institution": "Wageningen University & Research",
       "location": "The Netherlands",
       "url": "https://www.wur.nl/en/research-results/chair-groups/environmental-sciences/hydrology-and-environmental-hydraulics-group.htm",
-      "area": "Climate Studies",
-      "area": "Hydrology and Quantitative Water Management Group",
-      "area": "Minor: Dynamic Systems Modelling",
+      "area": "Climate Studies. Hydrology and Quantitative Water Management Group. \nMinor: Dynamic Systems Modelling.",
       "studyType": "MSc",
-      "startDate": "2016",
-      "endDate": "2018",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2016-09-01",
+      "endDate": "2018-08-31",
+      "courses": ["Mario"]
     }
   ],
   "work": [
