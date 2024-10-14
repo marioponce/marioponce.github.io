@@ -166,42 +166,42 @@
       "date": "2023",
       "issuer": "COST Actions",
       "url": "",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-hashtag"
     },
     {
       "name": "Deep Learning Specialization",
       "date": "2022",
       "issuer": "Coursera – DeepLearning.AI",
       "url": "",
-      "icon": ""
+      "icon": "fa-solid fa-hashtag"
     },
     {
       "name": "Diploma in aerobic treatment and wastewater reuse",
       "date": "2021",
       "issuer": "Universidad Nacional Autónoma de México, UNAM",
       "url": "",
-      "icon": ""
+      "icon": "fa-solid fa-hashtag"
     },
     {
       "name": "Machine Learning",
       "date": "2021",
       "issuer": "Instituto Politécnico Nacional, IPN",
       "url": "",
-      "icon": ""
+      "icon": "fa-solid fa-hashtag"
     },
     {
       "name": "Spring School in Lattice Boltzmann Methods with OpenLB Software Lab",
       "date": "2018",
       "issuer": "Karlsruhe Institute of Technology",
       "url": "",
-      "icon": ""
+      "icon": "fa-solid fa-hashtag"
     }
   ],
   "skills": [
     {
       "name": "Programming languages",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-desktop",
       "keywords": [
         "Pyton",
         "R",
@@ -212,7 +212,7 @@
     {
       "name": "Statistics and Data Science",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-infinity",
       "keywords": [
         "Machine Learning",
         "Bayesian Statistics"
@@ -221,7 +221,7 @@
     {
       "name": "Open HardwareComplexity",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": fa-solid fa-microchip",
       "keywords": [
         "Raspberry pi",
         "Arduino",
@@ -231,7 +231,7 @@
     {
       "name": "Optimization",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-infinity",
       "keywords": [
         "Differential Evolution",
         "Bioinspired Algorithms"
@@ -242,23 +242,23 @@
     {
       "language": "Spanish",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "fa-solid fa-hashtag"
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "fa-solid fa-hashtag"
     },
     {
       "language": "French",
       "fluency": "Survival level",
-      "icon": ""
+      "icon": "fa-solid fa-hashtag"
     }
   ],
   "interests": [
     {
       "name": "Complexity",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-infinity",
       "keywords": [
         "Non-linear dynamic",
         "Cellular automata",
@@ -269,13 +269,13 @@
   "references": [
     {
       "name": "Robert Lanzafame",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-user",
       "reference": "We worked together in the organization of the MUDE course."
     },
     {
       "name": "Albretch Weerts",
       "url": "https://www.deltares.nl/en/expertise/our-people/albrecht-weerts",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-user",
       "reference": "He was my supervisor during my internship at Deltares."
     }
   ],
