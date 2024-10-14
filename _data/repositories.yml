@@ -4,7 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - marioponce/makara-init
   - marioponce/django-example
   - marioponce/optimization 
   - marioponce/fractals
