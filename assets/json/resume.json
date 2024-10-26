@@ -238,16 +238,6 @@
       ]
     }
   ],
-  "publications": [
-    { 
-      "author":={Ponce Pacheco, M.A., Soham, A., Guntha, R., Aravindakshan, A., Presannakumar, M.,Tyagi, A., Nagi, A., Pastore, P., & Pande, S},
-      "name": "Makara: A tool for cotton farmers to evaluate risk to income [Application Note].",
-      "publisher": "Computers and Electronics in Agriculture. Manuscript under review.",
-      "releaseDate": "In Review",
-      "url": "",
-      "summary": ""
-    }
-  ],
   "languages": [
     {
       "language": "Spanish",
