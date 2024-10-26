@@ -209,6 +209,14 @@
         "C++"
       ]
     },
+   "publications": [
+    {
+      "name": "Makara: A tool for cotton farmers to evaluate risk to income [Application Note].",
+      "publisher": "Computers and Electronics in Agriculture. Manuscript under review.",
+      "releaseDate": "In Review",
+      "url": "",
+      "summary": ""
+    },
     {
       "name": "Statistics and Data Science",
       "level": "Master",
