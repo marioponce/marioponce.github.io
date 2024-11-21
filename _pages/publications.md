@@ -19,7 +19,7 @@ nav_order: 2
 
 </div>
 
-<div class="conferences">
+<div class="publications">
 
 {% bibliography %}
 
