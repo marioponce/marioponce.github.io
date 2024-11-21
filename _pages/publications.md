@@ -14,20 +14,15 @@ nav_order: 2
 <!-- {% include bib_search.liquid %} -->
 
 <div class="publications">
-
-{% bibliography %}
-
-</div>
-
-<div class="publications">
   
-{% bibliography --group_by none --query @*[selected=true]* %}
+{% bibliography --group_by year --query @*[selected=true]* %}
 
 </div>
 
+<h3 class="bibliography">participation in conferences</h3>
 <div class="publications">
-  participation in conferences
-{% bibliography --group_by none --query @*[selected=false]* %}
+
+{% bibliography --group_by year --query @*[selected=false]* %}
 
 </div>
 
