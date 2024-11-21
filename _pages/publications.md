@@ -18,3 +18,16 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+<div class="publications">
+  
+{% bibliography --group_by none --query @*[selected=true]* %}
+
+</div>
+
+<div class="publications">
+  participation in conferences
+{% bibliography --group_by none --query @*[selected=false]* %}
+
+</div>
+
