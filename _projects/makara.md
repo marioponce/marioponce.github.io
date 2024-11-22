@@ -19,18 +19,5 @@ Farmers with poor access to predictive analytics of their yields and incomes ris
     
 </div>
 
-<script src="https://giscus.app/client.js"
-        data-repo="Hyun-Soon/Hyun-Soon.github.io"
-        data-repo-id="R_kgDOKeOOEA"
-        data-category="Comments"
-        data-category-id="DIC_kwDOKeOOEM4CaKQd"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="dark_dimmed"
-        data-lang="ko"
-        crossorigin="anonymous"
-        async>
-</script>
+<a href="https://www.makarainit.com/">Go to site!</a>
+
