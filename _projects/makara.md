@@ -5,7 +5,7 @@ description: Makara, A tool for cotton farmers to evaluate risk to income
 img: assets/img/projects/makara_1.png
 importance: 1
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Farmers with poor access to predictive analytics of their yields and incomes risk losing their crops, incurring financial losses and existential threats. Makara empowers these farmers with digital intelligence based on a scalable web-enabling technology by visualizing financial risks and providing best practice advisories before and during the growing seasons.
