@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -48,7 +48,7 @@
       "institution": "Universidad Autónoma Metropolitana, UAM",
       "location": "Mexico",
       "url": "https://www.uam.mx/unidad_cuajimalpa.html",
-      "area": "Applied Matematics [Truncated to 30%. (unfinished)]",
+      "area": "Applied Mathematics [Truncated to 30%. (unfinished)]",
       "studyType": "Postgraduate Degree",
       "startDate": "2015-08-01",
       "endDate": "2016-07-31",
