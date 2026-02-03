@@ -24,6 +24,17 @@
   },
   "education": [
     {
+      "institution": "New York University, NYU",
+      "location": "New York, USA",
+      "url": "https://www.omarwani.com/",
+      "area": "",
+      "studyType": "PhD Degree",
+      "startDate": "2025-09-01",
+      "endDate": "2029-05-31",
+      "courses": []
+    },
+    "education": [
+    {
       "institution": "Universidad Autónoma de la Ciudad de México, UACM",
       "location": "Mexico",
       "url": "https://www.uacm.edu.mx/",
