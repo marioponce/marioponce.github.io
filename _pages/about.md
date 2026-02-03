@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Delft, The Netherlands</p>
+    <p>Brooklyn, New York</p>
     <p>3rd Rock from the Sun</p>
 
 news: false # includes a list of news items
@@ -19,6 +19,6 @@ social: false # includes social icons at the bottom of the page
 
 # M.A. Ponce Pacheco
 
-Hoi. This is Mario (*A.K.A. Pacheco*). I have specialized in creating innovative solutions for environmental data analysis. My work is focused on tools that allow us to explore and understand phenomena related to Hydrology and Climate Change better.
+Hoi. This is Mario (*A.K.A. Pacheco*). I have specialised in creating innovative solutions for environmental data analysis. My work focuses on tools that help us better explore and understand phenomena related to Hydrology and Climate Change.
 
 About me ... amateur cyclist and rugger, former american football player ... maths lover and programming enthusiast ... I'm just a dreamer...
